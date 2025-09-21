@@ -36,21 +36,7 @@ In the project, 83% of customers will retain, indicating a high level of custome
 
 ---
 
-### 4. How to Run the Project
-
-1.  Clone the repository:
-    git clone https://github.com/Kuvonchbek21/customer-churn.git](https://github.com/Kuvonchbek21/customer-churn/blob/main/Customer_churn%20(1).ipynb
-    
-
-3.  Install dependencies:
-    pip install -r requirements.txt
-
-4.  Launch the notebook:
-    jupyter notebook
-
----
-
-### 5. Technologies Used
+### Technologies Used
 
 * Python: Programming Language
 * Pandas & NumPy: For data manipulation
@@ -64,11 +50,6 @@ In the project, 83% of customers will retain, indicating a high level of custome
 
 ---
 
-### 7. License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
 
 ##  Let's Work Together
 If you need help with data analysis, visualization, or building ML models, feel free to reach out.  
