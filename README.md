@@ -39,12 +39,13 @@ In the project, 83% of customers will retain, indicating a high level of custome
 ### 4. How to Run the Project
 
 1.  Clone the repository:
-    git clone https://github.com/Kuvonchbek21/customer-churn.git
+    git clone [https://github.com/Kuvonchbek21/customer-churn.git](https://github.com/Kuvonchbek21/customer-churn/blob/main/Customer_churn%20(1).ipynb)
+    
 
-2.  Install dependencies:
+3.  Install dependencies:
     pip install -r requirements.txt
 
-3.  Launch the notebook:
+4.  Launch the notebook:
     jupyter notebook
 
 ---
