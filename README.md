@@ -1,5 +1,4 @@
-# customer-churn-
-# Project Title: Customer Churn Prediction
+# Project : Customer Churn Prediction
 
 This project focuses on analyzing customer data from an E-Commerce  company to predict the likelihood of a customer leaving (churn). The main goal is to identify key factors driving customer churn and to proactively identify at-risk customers, allowing the company to take retention measures.
 
