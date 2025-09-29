@@ -45,10 +45,6 @@ In the project, 83% of customers will retain, indicating a high level of custome
 
 ---
 
-* [Kuvonchbek](https://github.com/Kuvonchbek21)
-
----
-
 
 ##  Let's Work Together
 If you need help with data analysis, visualization, or building ML models, feel free to reach out.  
